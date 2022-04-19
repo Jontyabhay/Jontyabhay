@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jontyabhay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Akshay
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and speedtest
+- 💞️ I’m looking to collaborate on SQL projects
+- 📫 How to reach me +353-0899662360
 
 <!---
 Jontyabhay/Jontyabhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
